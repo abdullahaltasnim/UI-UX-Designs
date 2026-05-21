@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 # Figma UI/UX Design Items — Personalized Healthcare Assistant
 =======
 # Figma UI/UX Design Descriptions - Personalized Healthcare Assistant
->>>>>>> 59b34fec8bfea74b63e624e68b15fb3013afdd0f
+
 
 This README describes the Figma UI/UX screens designed for the **Personalized Healthcare Assistant** project. The system is designed to help patients manage health records, medicine reminders, appointments, doctor communication, notifications, and healthcare-related services through a simple web/mobile interface.
 
